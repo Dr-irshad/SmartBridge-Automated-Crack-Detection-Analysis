@@ -12,14 +12,16 @@ SmartBridge is an AI-powered bridge crack detection system that leverages a mult
 - **Scalable Integration**: Designed for deployment on drones, robots, or handheld devices for versatile monitoring solutions.
 - **Data Logging & Reporting**: Automatically generates detailed reports for informed maintenance planning.
 
-## Installation
-### Prerequisites
-Ensure you have the following installed:
-- Python 3.8+
-- PyTorch
-- OpenCV
-- TensorFlow (if needed)
-- YOLO Framework
+# Clone the repository
+git clone https://github.com/your-username/SmartBridge-AI-Bridge-Crack-Detection.git
+cd SmartBridge-AI-Bridge-Crack-Detection
+
+# Create and activate a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
 
 ### Clone the Repository
 ```bash
