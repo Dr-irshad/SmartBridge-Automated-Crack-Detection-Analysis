@@ -1,14 +1,16 @@
 # SmartBridge: Automated Crack Detection & Analysis
 
 ## Overview
-SmartBridge is an AI-powered bridge crack detection system utilizing a customized YOLO (You Only Look Once) model to enhance crack detection accuracy. This project enables real-time and automated structural health monitoring of bridges, reducing manual inspection efforts and improving infrastructure safety.
+
+SmartBridge is an AI-powered bridge crack detection system that leverages a multi-agent reinforcement learning framework to enhance detection accuracy. This system enables real-time and automated structural health monitoring of bridges, significantly reducing the need for manual inspections and improving infrastructure safety.
 
 ## Features
-- **Customized YOLO Model:** Fine-tuned for bridge crack detection
-- **Real-Time Processing:** Efficient and fast crack identification
-- **High Accuracy:** Optimized for minimal false positives and false negatives
-- **Easy Integration:** Can be deployed on drones, robots, or handheld devices
-- **Data Logging & Reporting:** Generates reports for maintenance planning
+
+- **Multi-Agent System**: Utilizes multiple agents to collaboratively optimize crack detection strategies.
+- **Real-Time Processing**: Provides efficient and rapid identification of cracks through simultaneous decision-making.
+- **High Accuracy**: Employs optimized learning algorithms to minimize false positives and false negatives.
+- **Scalable Integration**: Designed for deployment on drones, robots, or handheld devices for versatile monitoring solutions.
+- **Data Logging & Reporting**: Automatically generates detailed reports for informed maintenance planning.
 
 ## Installation
 ### Prerequisites
