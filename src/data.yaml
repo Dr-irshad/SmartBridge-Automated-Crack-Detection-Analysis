@@ -1,7 +1,0 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
-
-nc: 4
-names: ['Bullet_imapct', 'Explosion_Impact', 'normal_crack', 'severe_crack']
-
